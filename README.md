@@ -1,4 +1,4 @@
-<img src="https://github.com/aniketofficial540/aniketofficial540/blob/main/Banner git.gif" width="100%">
+<img src="https://github.com/aniketofficial540/aniketofficial540/blob/main/Banner git black theme.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Aniket Adarsh</h1>
 <h3 align="center">I AM A BTECH CSE STUDENT WHO REALLY LOVES PROGRAMMING AND BUILDING NEW STUFF.</h3>
 
